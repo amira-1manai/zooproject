@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1639477864 source:c:\users\packard bell\desktop\examrn_zoo\animal.cpp
+	"Animal.h"
+
+1639477875 c:\users\packard bell\desktop\examrn_zoo\animal.h
+	<string>
+	<list>
+	<iostream>
+
+1639473561 source:c:\users\packard bell\desktop\examrn_zoo\lion.cpp
+	"Lion.h"
+
+1639473561 c:\users\packard bell\desktop\examrn_zoo\lion.h
+	"Animal.h"
+
+1514140574 source:c:\users\packard bell\desktop\examrn_zoo\main.cpp
+	<iostream>
+
+1639473561 source:c:\users\packard bell\desktop\examrn_zoo\medecin_veterinaire.cpp
+	"Medecin_Veterinaire.h"
+
+1639480213 c:\users\packard bell\desktop\examrn_zoo\medecin_veterinaire.h
+	<string>
+	<vector>
+	<iostream>
+
+1639480213 source:c:\users\packard bell\desktop\examrn_zoo\zoo.cpp
+	"Zoo.h"
+
+1639480213 c:\users\packard bell\desktop\examrn_zoo\zoo.h
+	"Animal.h"
+	"Lion.h"
+	"Medecin_Veterinaire.h"
+	<typeinfo>
+
